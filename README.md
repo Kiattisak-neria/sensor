@@ -4,6 +4,7 @@
 ## <a name="content"></a> สารบัญ  
 1. [อุปกรที่ใช้ทั้งหมด](#อุปกร)
 2. [ไลบรารี่ที่ใช้ในโค้ดทั้งหมด](#libra)
+3. [วงจรในการต่อใช้งาน](#Hardware)
 <br/>
 
 ## <a name="อุปกร"></a> อุปกรที่ใช้ทั้งหมด
@@ -35,5 +36,7 @@
 <p align="center">
   <img src=https://github.com/user-attachments/assets/a1acf8f4-98cc-477c-8488-59b5196341ee>
 </p>
+
+[กลับสู่สารบัญ](#content)
 
 <br/>
