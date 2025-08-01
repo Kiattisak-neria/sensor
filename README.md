@@ -45,7 +45,8 @@
 ## <a name="โฟลว์ชาร์ต"></a> ลักษการทำงาน(โฟลว์ชาร์ต)
 
 <p align="center">
-<img src=https://github.com/user-attachments/assets/29281371-dafa-43ee-8580-880e2b413e7a>
+<img src=https://github.com/user-attachments/assets/d2c9bff1-79b9-49dd-8174-ea59f2b12240>
+
 
 [กลับสู่สารบัญ](#content)
 <br/>
